@@ -47,7 +47,7 @@
     "typecheck": "tsc --noEmit && tsc --noEmit -p tsconfig.test.json"
   },
   "devDependencies": {
-    "@types/node": "^26.1.0",
+    "@types/node": "^26.1.2",
     "@vitest/coverage-v8": "^4.1.9",
     "tsup": "^8.5.0"
   },
