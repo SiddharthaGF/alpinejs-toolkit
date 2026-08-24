@@ -54,8 +54,8 @@
   },
   "devDependencies": {
     "@ailuracode/alpine-core": "workspace:*",
-    "@types/node": "^26.1.0",
-    "@vitest/coverage-v8": "^4.1.9",
+    "@types/node": "^26.2.0",
+    "@vitest/coverage-v8": "^4.1.11",
     "tsup": "^8.5.0"
   },
   "toolkit": {

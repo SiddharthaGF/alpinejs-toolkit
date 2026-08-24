@@ -51,7 +51,7 @@
     "@ailuracode/alpine-query": "workspace:*",
     "@ailuracode/alpine-query-adapter-alpine": "workspace:*",
     "@nanostores/alpine": "^0.1.1",
-    "nanostores": "^1.4.0"
+    "nanostores": "^1.5.2"
   },
   "devDependencies": {
     "@types/alpinejs": "^3.13.11",
