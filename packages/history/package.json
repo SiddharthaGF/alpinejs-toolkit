@@ -45,7 +45,7 @@
   "devDependencies": {
     "@ailuracode/alpine-core": "workspace:*",
     "@types/alpinejs": "^3.13.11",
-    "alpinejs": "^3.15.12"
+    "alpinejs": "^3.17.1"
   },
   "scripts": {
     "build": "tsup src/index.ts --format esm --dts --clean --out-dir dist --minify && cp src/global.d.ts dist/global.d.ts",
