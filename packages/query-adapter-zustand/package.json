@@ -39,7 +39,7 @@
   "dependencies": {
     "@ailuracode/alpine-query": "workspace:*",
     "@ailuracode/alpine-query-adapter-alpine": "workspace:*",
-    "zustand": "^5.0.11"
+    "zustand": "^5.0.15"
   },
   "devDependencies": {
     "@types/alpinejs": "^3.13.11",
