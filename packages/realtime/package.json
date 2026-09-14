@@ -72,7 +72,7 @@
     "@types/alpinejs": "^3.13.11",
     "@types/node": "^26.5.1",
     "tsup": "^8.5.0",
-    "alpinejs": "^3.17.1"
+    "alpinejs": "^3.17.2"
   },
   "keywords": [
     "alpinejs",
