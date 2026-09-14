@@ -46,7 +46,7 @@
     "@types/alpinejs": "^3.13.10",
     "@types/node": "^26.5.1",
     "tsup": "^8.5.0",
-    "alpinejs": "^3.17.1"
+    "alpinejs": "^3.17.2"
   },
   "peerDependencies": {
     "@ailuracode/alpine-core": "^0.3.0",
