@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@ailuracode/alpine-core": "workspace:*",
-    "@alpinejs/anchor": "^3.17.2",
+    "@alpinejs/anchor": "^3.17.3",
     "@types/alpinejs": "^3.13.11",
     "alpinejs": "^3.17.2"
   },

@@ -55,7 +55,7 @@
     "@ailuracode/alpine-core": "workspace:*",
     "@ailuracode/alpine-ui": "workspace:*",
     "@types/alpinejs": "^3.13.10",
-    "@types/node": "^26.5.1",
+    "@types/node": "^26.6.1",
     "@vitest/coverage-v8": "^4.1.9",
     "tsup": "^8.5.0",
     "alpinejs": "^3.17.2"
