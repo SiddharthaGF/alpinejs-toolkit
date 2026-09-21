@@ -39,7 +39,7 @@
     "@ailuracode/alpine-core": "workspace:*",
     "@ailuracode/alpine-query": "workspace:*",
     "@types/alpinejs": "^3.13.11",
-    "alpinejs": "^3.17.2"
+    "alpinejs": "^3.17.3"
   },
   "dependencies": {
     "@ailuracode/alpine-query": "workspace:*"

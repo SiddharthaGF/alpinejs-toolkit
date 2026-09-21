@@ -47,7 +47,7 @@
     "@ailuracode/alpine-core": "workspace:*",
     "@ailuracode/alpine-ui": "workspace:*",
     "@types/alpinejs": "^3.13.11",
-    "alpinejs": "^3.17.2"
+    "alpinejs": "^3.17.3"
   },
   "scripts": {
     "build": "tsup src/index.ts --format esm --dts --clean --out-dir dist --minify && cp src/global.d.ts dist/global.d.ts",
